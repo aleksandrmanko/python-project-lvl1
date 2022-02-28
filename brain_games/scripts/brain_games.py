@@ -1,3 +1,4 @@
 #!/usr/bin/env python
-print("Welcome to the Brain Games")
+import welcome_user from brain_games.cli 
+welcome_user()
 
