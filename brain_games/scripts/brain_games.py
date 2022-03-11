@@ -1,4 +1,4 @@
 #!/usr/bin/env python
-import welcome_user from brain_games.cli 
+from brain_games.scripts.cli import welcome_user 
 welcome_user()
 
